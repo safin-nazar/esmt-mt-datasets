@@ -6,7 +6,7 @@ We have uploaded 4 files here:
 2. Final German AI Startups Dataset - after data cleaning and analysis - german-ai.startups-2.xlsx
 3. Python Notebook with Code for German AI Startup Analysis - German-ai-startups-ipynb
 4. Python Notebook with Code for UK AI Startup Analysis - uk-ai-startups-ipynb
-5. 
+
 Please contact us in case of any issues: safin.nazar@mim.esmt.org and michelelia.amodio@mim.esmt.org.
 
 Thanks and Best Regards,
